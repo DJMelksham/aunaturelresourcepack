@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "deep_ocean",
+    "ocean"
+  ],
+  "spawners": {
+    "type": "benssharks:mako_shark",
+    "weight": 4,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "minecraft:apple", "required": false },
+    "minecraft:carrot",
+    "minecraft:bread",
+    "minecraft:salmon",
+    "seeddelight:cherry_ice_cream",
+    "ecologics:walnut",
+    "oceansdelight:braised_sea_pickle",
+    "byg:joshua_fruit",
+    "aquaculture:pink_salmon",
+    "aquaculture:tuna",
+    "croptopia:corn",
+    "croptopia:grape",
+    "croptopia:almond",
+    "croptopia:pear",
+    "croptopia:pecan",
+    "croptopia:persimmon",
+    "croptopia:walnut",
+    "croptopia:tuna",
+    "fruitsdelight:pear",
+    "farmersdelight:salmon_slice",
+    "corn_delight:corn"
+  ]
+}

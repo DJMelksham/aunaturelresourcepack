@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:potato",
+    "immersive_weathering:moss_clump",
+    "immersive_weathering:golden_moss_clump",
+    "immersive_weathering:enchanted_golden_moss_clump",
+    "untamedwilds:material_fat",
+    "untamedwilds:material_blubber",
+    "farmersrespite:coffee_berries",
+    "aquaculture:algae",
+    "croptopia:barley",
+    "croptopia:coffee_beans",
+    "croptopia:sweetpotato",
+    "croptopia:yam",
+    "croptopia:nutmeg",
+    "croptopia:butter",
+    "culturaldelights:corn_dough"   
+  ]
+}

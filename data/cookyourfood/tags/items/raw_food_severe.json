@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:rotten_flesh",
+    "enemyexpansion:scorpion_tail",
+    "alexsmobs:maggot",
+    "fishofthieves:grubs",
+    "fishofthieves:earthworms",
+    "fishofthieves:leeches",
+    "miners_delight:weird_caviar",
+    "miners_delight:silverfish_eggs"
+  ]
+}

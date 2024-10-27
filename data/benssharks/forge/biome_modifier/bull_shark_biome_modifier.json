@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "river",
+    "mangrove_swamp",
+    "swamp",
+    "lukewarm_ocean",
+    "beach",
+    "stony_shore"
+  ],
+  "spawners": {
+    "type": "benssharks:bull_shark",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}
